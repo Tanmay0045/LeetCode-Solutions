@@ -12,6 +12,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -47,4 +48,5 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Tanmay0045/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
